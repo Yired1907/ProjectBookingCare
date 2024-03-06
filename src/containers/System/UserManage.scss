@@ -1,0 +1,33 @@
+.bg-info th{
+    color: aliceblue;
+    border-color: white;
+}
+
+tbody td{
+    text-align: justify;
+    padding-left: 19px!important;
+}
+
+.btn-edit2{
+    background-color: transparent;
+    border: none;
+    font-size: large;
+    color: #ffc107;
+
+    &:hover{
+        color: #ff8907;
+        background-color: transparent;
+    }
+}
+
+.btn-delete2{
+    background-color: transparent;
+    border: none;
+    font-size: large;
+    color: #ff0b07;
+
+    &:hover{
+        color: #c60606;
+        background-color: transparent;
+    }
+}
